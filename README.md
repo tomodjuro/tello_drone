@@ -1,2 +1,2 @@
 # tello_drone
-scripts for tello drone for keyboard control and frame/video saving
+tello drone scripts for keyboard control and frame/video saving
